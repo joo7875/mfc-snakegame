@@ -1,0 +1,2 @@
+﻿  DlgOver.cpp
+c:\users\주혜원\desktop\snake_game-20171014t000405z-001\snake_game\snake_game\dlgover.h(15): error C2065: 'IDD_DIALOG3': 선언되지 않은 식별자입니다.
